@@ -19,7 +19,7 @@ const View = () => {
         </div>
         <div className="container">
           <strong>ID: </strong>
-          <span>{id - 1}</span>
+          <span>{id}</span>
           <br />
           <br />
           <strong>Name: </strong>
